@@ -8,8 +8,9 @@ public class PipelineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PipelineApplication.class, args);
-	}
 
+
+	}
 
 
 }
